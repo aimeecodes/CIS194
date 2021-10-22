@@ -1,2 +1,2 @@
 # CIS194
-.hs files for UPenn's Introduction to Haskell (Spring 2013)
+Solution files for UPenn's Introduction to Haskell course (CIS 194, Spring 2013)
